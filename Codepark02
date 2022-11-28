@@ -1,0 +1,37 @@
+
+<header>
+  <h1>Título da página</h1>
+  <h2>Subtítulo da página</h2>
+</header>
+
+
+<article>
+  <h3>Título do artigo 1</h3>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+</article>              
+
+<article>
+  <h3>Título do artigo 2</h3>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+</article>
+
+<section>
+  <h3>Seção 1</h3>
+  
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+</section>
+
+<figure>
+  <img src="https://st2.depositphotos.com/4164031/6914/i/450/depositphotos_69145633-stock-photo-flag-of-brazil.jpg">
+</figure>
+
+
+<figure>
+  <img src="https://st3.depositphotos.com/21486874/31650/i/1600/depositphotos_316502246-stock-photo-male-silhouette-figure-waving-brazil.jpg">
+</figure>
+
+
+<footer>
+  <p>Escrito por Jonatas Diniz</p>
+  <p>Publicado em 25/11/2022 </p>
+</footer>
